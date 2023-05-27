@@ -4,7 +4,7 @@
 
  🦋 I did a summer internship in July 2022 at ITSector. 
  
- ✨ I love all related to arts and crafty stuff.
+ ✨ I love all about arts and crafty stuff.
 
 👩‍💻 You can find my university projects [here](https://github.com/joanabranco/uminho-projects).
 
