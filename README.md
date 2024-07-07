@@ -1,6 +1,6 @@
 ### Hi, I'm Joana!
 
-🌱 I'm currently studying Software Engineering at University of Minho. 
+🌱 Recently graduated in Software Engineering at University of Minho. 
 
  🦋 I did a summer internship in July 2022 at ITSector. 
  
