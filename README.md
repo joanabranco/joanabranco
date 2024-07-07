@@ -1,4 +1,4 @@
-### Hi, i'm Joana!
+### Hi, I'm Joana!
 
 🌱 I'm currently studying Software Engineering at University of Minho. 
 
